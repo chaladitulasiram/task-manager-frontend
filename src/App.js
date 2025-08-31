@@ -5,7 +5,7 @@ import TaskList from './components/TaskList';
 import TaskForm from './components/TaskForm';
 import { getTasks, createTask, updateTask, deleteTask, updateTaskStatus } from './services/taskService';
 import './App.css';
-import TaskLogo from './task-logo.png';
+
 
 // Helper function to get the initial theme
 const getInitialTheme = () => {
